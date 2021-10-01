@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "colt/cmd"
+import "github.com/n8jhj/colt/cmd"
 
 func main() {
 	cmd.Execute()
